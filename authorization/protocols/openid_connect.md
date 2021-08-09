@@ -1,5 +1,10 @@
 # OpenID Connect协议
 
+## 标准协议
+
+https://openid.net/connect/
+
+
 ## Django社区实现
 
 官方提供的项目列表：https://djangopackages.org/grids/g/oidc/

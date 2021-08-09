@@ -1,5 +1,14 @@
 # OAuth2协议
 
+## 标准协议
+
+https://datatracker.ietf.org/doc/html/rfc6749
+
+## Python社区实现
+
+- oauthlib: https://oauthlib.readthedocs.io/en/latest/index.html。
+- authlib: https://docs.authlib.org/en/latest/index.html。
+
 ## Django社区实现
 
 官方提供的项目列表：https://djangopackages.org/grids/g/oauth/
