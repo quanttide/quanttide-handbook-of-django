@@ -1,1 +1,3 @@
-#django-practice-docs
+# Django工程实践
+
+本项目总结Django框架的工程实践，用以规范内部项目、为开源社区提供最佳实践经验。
