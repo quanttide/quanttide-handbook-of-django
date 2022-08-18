@@ -1,6 +1,7 @@
 format: jb-book
 root: README.md
 chapters:
+  - file: setup/README.md
   - file: models/README.md
     sections:
       - file: models/fields/README.md
