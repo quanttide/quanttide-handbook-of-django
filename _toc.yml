@@ -1,0 +1,9 @@
+format: jb-book
+root: README.md
+chapters:
+  - file: models/README.md
+    sections:
+      - file: models/fields/README.md
+        sections: 
+          - file: models/fields/id.md
+          - file: models/fields/char.md
