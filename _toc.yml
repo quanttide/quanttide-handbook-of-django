@@ -7,21 +7,19 @@ parts:
         sections:
           - file: init/pycharm.md
   - caption: 框架核心
-  - chapters:
-      - file: models/README.md
+    chapters:
+      - file: model_layer/README.md
         sections:
-          - file: model_layer/README.md
-            sections:
-              - file: model_layer/models/README.md
-              - file: model_layer/fields/README.md
-                sections: 
-                  - file: model_layer/fields/index.md
-                  - file: model_layer/fields/description.md
-                  - file: model_layer/fields/datetime.md
-                  - file: model_layer/fields/relations.md
+          - file: model_layer/models/README.md
+          - file: model_layer/fields/README.md
+            sections: 
+              - file: model_layer/fields/index.md
+              - file: model_layer/fields/description.md
+              - file: model_layer/fields/datetime.md
+              - file: model_layer/fields/relations.md
       - file: testing/README.md
         sections:
-          - testing/database.md
+          - file: testing/database.md
       - file: settings/README.md
   - caption: 应用场景
     chapters:
